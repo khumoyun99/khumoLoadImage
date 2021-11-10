@@ -3,6 +3,7 @@ SetImageUrl.setImageUrl(
                 url:String,
                 imageView:ImageView
             )
+	    
 Step 1.Add the JitPack repository to your build file 
 allprojects {
 		repositories {
