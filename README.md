@@ -11,6 +11,7 @@ allprojects {
 			maven { url 'https://jitpack.io' }
 		}
 	}
+	
 Step 2. Add the dependency
 dependencies {
 	        implementation 'com.github.khumoyun99:khumoLoadImage:1.0.0'
